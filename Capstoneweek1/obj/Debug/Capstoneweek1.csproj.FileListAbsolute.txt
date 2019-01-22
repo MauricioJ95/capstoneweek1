@@ -1,0 +1,7 @@
+C:\git\Unit 1\Capstoneweek1\Capstoneweek1\bin\Debug\Capstoneweek1.exe.config
+C:\git\Unit 1\Capstoneweek1\Capstoneweek1\bin\Debug\Capstoneweek1.exe
+C:\git\Unit 1\Capstoneweek1\Capstoneweek1\bin\Debug\Capstoneweek1.pdb
+C:\git\Unit 1\Capstoneweek1\Capstoneweek1\obj\Debug\Capstoneweek1.csprojAssemblyReference.cache
+C:\git\Unit 1\Capstoneweek1\Capstoneweek1\obj\Debug\Capstoneweek1.csproj.CoreCompileInputs.cache
+C:\git\Unit 1\Capstoneweek1\Capstoneweek1\obj\Debug\Capstoneweek1.exe
+C:\git\Unit 1\Capstoneweek1\Capstoneweek1\obj\Debug\Capstoneweek1.pdb

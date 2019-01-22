@@ -12,7 +12,8 @@ namespace Capstoneweek1
         {
             Console.WriteLine("Enter a sentence to get translated into Pig Latin!");
             string sentence = Console.ReadLine();
-
+            string pigLatin = TranslateToPigLatin(sentence);
+            Console.WriteLine(pigLatin);
         }
 
         private static string TranslateToPigLatin(string sentence)
